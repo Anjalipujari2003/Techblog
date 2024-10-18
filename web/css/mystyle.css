@@ -1,0 +1,21 @@
+h1{
+    font-size: 100px;
+}
+.primary{
+    height: 80px;
+    font-size: 20px;
+    border-radius: 20px;
+    margin-top: 10px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+li{
+    padding: 10px;
+}
+span{
+    font-weight: bold;
+    color: gray;
+}
+.card-header{
+    font-size: 15px;
+}

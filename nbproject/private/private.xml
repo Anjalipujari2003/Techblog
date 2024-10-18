@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/Iant/java/JDBC/TechBlog/src/java/com/techblog/entities/user.java</file>
+            <file>file:/D:/Iant/java/JDBC/TechBlog/web/index.jsp</file>
+            <file>file:/D:/Iant/java/JDBC/TechBlog/web/Register_page.jsp</file>
+            <file>file:/D:/Iant/java/JDBC/TechBlog/web/profile.jsp</file>
+            <file>file:/D:/Iant/java/JDBC/TechBlog/src/java/com/techblog/dao/PostDao.java</file>
+            <file>file:/D:/Iant/java/JDBC/TechBlog/src/java/com/techblog/entities/Category.java</file>
+            <file>file:/D:/Iant/java/JDBC/TechBlog/src/java/com/techblog/entities/Message.java</file>
+            <file>file:/D:/Iant/java/JDBC/TechBlog/src/java/com/techblog/servlets/Editservlet.java</file>
+            <file>file:/D:/Iant/java/JDBC/TechBlog/web/WEB-INF/web.xml</file>
+            <file>file:/D:/Iant/java/JDBC/TechBlog/web/img/user.png</file>
+            <file>file:/D:/Iant/java/JDBC/TechBlog/src/java/com/techblog/entities/Post.java</file>
+        </group>
+    </open-files>
+</project-private>
